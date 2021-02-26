@@ -11,4 +11,4 @@ There are two py files.
 
 Finally the notebook illustrates the salary class.
 
-Fe/2021
+Feb/2021

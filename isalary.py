@@ -27,8 +27,8 @@ class salary:
 	#Read in data
 		#indeed_a= pd.read_csv('./indeed_anl')	
 		#indeed_d= pd.read_csv('./indeed_d')
-		indeed_a= pd.read_csv('/Users/brianfarrell/Desktop/indeed_anl')
-		indeed_d= pd.read_csv('/Users/brianfarrell/Desktop/indeed_d')
+		indeed_a= pd.read_csv('../indeed_anl')
+		indeed_d= pd.read_csv('../indeed_d')
 		indeed_a['salary_label']= np.zeros(161,)
 		indeed_d['salary_label']= np.ones(217,)
 
